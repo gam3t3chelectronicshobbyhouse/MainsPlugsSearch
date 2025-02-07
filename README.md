@@ -1,5 +1,5 @@
 # MainsPlugsSearch
-Search for the mains AC plug type required there.
+Search for the mains AC plug type required by Country.
 
 
 
