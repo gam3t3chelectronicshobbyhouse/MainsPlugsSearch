@@ -7,7 +7,7 @@ Search for the mains AC plug type required by Country.
 
 # Install
 Option 1: 
-download the Mains Plug Search V1.rar  extract it and run the application directly through the folder.  This will have an exe file in it and will have all the packages and things required for it to be run on your windows computer with no issues.
+Download the Mains Plug Search V1.rar  extract it and run the application directly through the folder.  This will have an exe file in it and will have all the packages and things required for it to be run on your windows computer with no issues.
 
 Option 2: 
 Download the required files plugs.py & images folder 
@@ -29,6 +29,7 @@ Mac Considerations
         If using Homebrew Python, you may need:   brew install python-tk
 
 This is a work in progress it will get some updates shortly here.
+
                             -Gam3t3ch Electronics
 
 
